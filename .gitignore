@@ -1,0 +1,10 @@
+# Word files
+*.docx
+*.doc
+
+# data
+*.rec
+*.lst
+*.zip
+*ubyte
+*.bin
